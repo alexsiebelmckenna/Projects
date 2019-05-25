@@ -1,1 +1,1 @@
-# DSfromScratch
+# SampleProject
